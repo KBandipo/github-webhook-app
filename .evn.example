@@ -1,2 +1,0 @@
-REACT_APP_PORT=your_BACKEND_PORT_here_("e.g., 4000")
-REACT_APP_BACKENDURL=http://localhost:${REACT_APP_PORT}
